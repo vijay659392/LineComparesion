@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\bin\Debug\LineComparesion.exe.config
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\bin\Debug\LineComparesion.exe
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\bin\Debug\LineComparesion.pdb
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\obj\Debug\LineComparesion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\obj\Debug\LineComparesion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\obj\Debug\LineComparesion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\obj\Debug\LineComparesion.exe
+C:\Users\PC\Desktop\RFT-256\Demo\LineComparesion\LineComparesion\obj\Debug\LineComparesion.pdb
